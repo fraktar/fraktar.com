@@ -5,7 +5,7 @@ label: pixels
 ---
 ![alt text](/public/images/Elf.png "My Little Elf")
 
-Made with Adobe Illustrator CS6.
+Made with Adobe Illustrator CS6!
 
 
 
