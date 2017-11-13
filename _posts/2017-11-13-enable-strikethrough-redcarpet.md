@@ -11,4 +11,4 @@ redcarpet:
   extensions: ["strikethrough"]
 ```
 
-Next, just ~~stop~~ don't stop coding!
+Next, just ~~stop~~ don't stop coding.
