@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/fraktar/fraktar.com.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Duta",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/fraktar/fraktar.com/issues"
   },
@@ -21,8 +21,8 @@
     "surge": "^0.19.0"
   },
   "git": {
-  "scripts": {
-    "pre-push": "surge --project ./_site --domain fraktar.com"
+    "scripts": {
+      "pre-push": "surge --project ./_site --domain fraktar.com"
+    }
   }
-}
 }
