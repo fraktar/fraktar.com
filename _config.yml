@@ -2,6 +2,10 @@
 markdown:         redcarpet
 highlighter:         pygments
 
+# Make strikethrough work with redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
+
 # Permalinks
 permalink:        /:title/
 
