@@ -22,7 +22,7 @@
   },
   "git": {
   "scripts": {
-    "pre-push": "surge _site --project ./ --domain fraktar.com"
+    "pre-push": "surge --project ./_site --domain fraktar.com"
   }
 }
 }
