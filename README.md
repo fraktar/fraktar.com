@@ -1,9 +1,6 @@
-# Fraktar Site
+# fraktar.com
+Repo for http://www.fraktar.com website.
 
-Homepage for everything related to [Fraktar](http://fraktar.com).
+Website design is licensed MIT.
 
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+All custom designs on the website (logos, illustrations, pixel art) are copyrighted and you need to ask for permission to use any of it in your own projects.
