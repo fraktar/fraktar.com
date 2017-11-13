@@ -33,7 +33,7 @@ jekyll 3.1.2 | Error:  jekyll-paginate
 We should install the `jekyll-paginate` gem by entering the following command:
 `gem install jekyll-paginate`
 
-For other similar errors just install the required gem by using the syntax `gem install <gem-name>`. Subtitute `<gem-name>` with the actual gem's name specified in the error message.
+For other similar errors just install the required gem by using the syntax `gem install <gem-name>`. Subtitute `<gem-name>` with the actual gem's name specified in the error message.:)
 
 
 
