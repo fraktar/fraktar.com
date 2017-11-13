@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:         pygments
+
+# Permalinks
+permalink:        /:title/
+
+# Setup
+title:            Fraktar
+tagline:          'Crafting Things.'
+description:      'Overcoming the terminal window fear.'
+url:              http://fraktar.com
+
+#author:
+ # name:           'Fraktar'
+# url:            https://twitter.com/fraktar
+
+gems: [jekyll-paginate]
+paginate:         5
+
+# Custom vars
+github:
+  repo:           https://github.com/fraktar/www
+
+# Excludes
+exclude: ['LICENSE.md', 'README.md', 'CNAME']

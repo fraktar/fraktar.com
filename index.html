@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="row">
+  {% for post in paginator.posts %}
+        <a href="{{ post.url }}">
+
+  {% if post.label == "game-dev" or post.label contains "game" or post.label contains "Game" %}        
+  <div class="col-md-12 post-index game-dev">  
+  {% elsif post.label == "Web-dev" %}   
+  <div class="col-md-12 post-index web-dev">
+  {% elsif post.label == "AI" %}   
+  <div class="col-md-12 post-index illustrator">
+  {% else %}
+  <div class="col-md-12 post-index">
+  {% endif %}  
+    <h1 class="post-title">
+
+        {{ post.title }} 
+         
+      <span class="post-label hidden-xs">{{ post.label }}</span>
+      
+    </h1>
+
+    
+  </div></a>
+  {% endfor %}
+</div>
+<hr>
+

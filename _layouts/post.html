@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{% if page.label == "game-dev" or page.label contains "game" or page.label contains "Game" %}     
+<div class="post game-dev">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {{ content }}
+</div>
+
+{% elsif page.label == "Web-dev" %}
+
+<div class="post web-dev">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {{ content }}
+</div>
+
+{% else %}
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {{ content }}
+</div>
+
+{% endif %}
