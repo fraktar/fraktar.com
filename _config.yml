@@ -23,4 +23,4 @@ github:
   repo:           https://github.com/fraktar/www
 
 # Excludes
-exclude: ['LICENSE.md', 'README.md', 'CNAME']
+exclude: ['LICENSE.md', 'README.md', 'CNAME', "package.json"]
