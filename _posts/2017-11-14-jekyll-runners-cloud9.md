@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Jekyll Run Configurations
+title: 3 Jekyll Run Configurations on Cloud9
 label: build
 ---
 
