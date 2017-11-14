@@ -1,4 +1,4 @@
-# Fraktar.com
+# fraktar.com
 Repo for http://www.fraktar.com website.
 
 Website design is licensed MIT.
