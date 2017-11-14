@@ -23,8 +23,9 @@ gems: [jekyll-paginate]
 paginate:         10
 
 # Custom vars
-github:
-  repo:           https://github.com/fraktar/www
+#github:
+# repo:  https://github.com/fraktar/fraktar.com.git
 
 # Excludes
-exclude: ['LICENSE.md', 'README.md', 'CNAME', "package.json"]
+exclude: ['LICENSE.md', 'README.md', 'CNAME', "package.json", "node_modules"]
+

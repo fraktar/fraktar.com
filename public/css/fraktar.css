@@ -24,7 +24,7 @@ html {
     font-size: 24.6236px;
   }
 .container {
-  max-width: 48rem;
+  max-width: 54rem; /*48rem;*/
   padding-left:  1rem;
   padding-right: 1rem;
 }
