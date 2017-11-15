@@ -6,7 +6,7 @@ layout: default
   {% for post in paginator.posts %}
         <a href="{{ post.url }}">
 
-  {% if post.label == "game-dev" or post.label contains "game" or post.label contains "Game" %}        
+  {% if post.label == "game-dev" %}        
   <div class="col-md-12 post-index game-dev">  
   {% elsif post.label == "Web-dev" %}   
   <div class="col-md-12 post-index web-dev">
