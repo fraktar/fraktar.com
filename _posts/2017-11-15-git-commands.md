@@ -2,7 +2,7 @@
 layout: post
 title: Git commands order
 label: code
-author:Andy
+author: Andy
 ---
 Here is the git commands order.
 
