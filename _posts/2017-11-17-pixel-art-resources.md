@@ -2,6 +2,7 @@
 layout: post
 title: Pixel Art & Game Dev - Resource Mega Post
 label: pixels, gamedev
+last_modified_at: 2017-11-18T04:37:00+03:00
 ---
 
 ##**YouTube Channels**
