@@ -2,6 +2,7 @@
 layout: post
 title: Point gun object in the direction of gamepad's axis
 tags: gamemaker-2 GML
+author: Rob
 ---
 
 Instead of having the gun follow the mouse cursor position like so:

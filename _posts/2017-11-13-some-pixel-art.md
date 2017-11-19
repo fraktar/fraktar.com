@@ -2,6 +2,7 @@
 layout: post
 title: Some Pixel Art
 tags: pixels adobe-illustrator adobe-photoshop
+author: Andy
 ---
 Hello! Nice to meet you! I'm Elf.
 

@@ -2,6 +2,7 @@
 layout: post
 title: Redcarpet & Jekyll - Open external links in new tab by default
 tags: markdown redcarpet jekyll
+author: Rob
 ---
 
 **Expected behaviour:**

@@ -7,4 +7,5 @@ group :jekyll_plugins do
   gem 'pygments.rb'
   gem 'redcarpet'
   #gem 'jekyll-tagging', '~> 1.0', '>= 1.0.1'
+  gem 'jekyll-avatar', '~> 0.5.0'
 end

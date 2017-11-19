@@ -2,6 +2,7 @@
 layout: post
 title: Build Warning - Layout 'nil' does not exist
 tags: error
+author: Rob
 ---
 
 If you're using <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> you might get this error message:

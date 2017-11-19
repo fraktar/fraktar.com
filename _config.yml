@@ -23,6 +23,7 @@ url:              http://fraktar.com
 gems:
   #- jekyll/tagging 
   - jekyll-paginate
+  - jekyll-avatar
   
 paginate:         5
 paginate_path: "/:num/"

@@ -3,6 +3,7 @@ layout: post
 title: Pixel Art & Game Dev - Resource Mega Post
 tags: pixels gamedev resource gamemaker-2
 last_modified_at: 2017-11-18T04:37:00+03:00
+author: Rob
 ---
 
 ##**YouTube Channels**
