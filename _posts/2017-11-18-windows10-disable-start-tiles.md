@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Customize start menu tiles in Windows 10
-label: windows
+tags: windows powershell
 ---
 
 After each restart, Windows just replaces the tiles and pins whatever it wants to the start menu. It just ignores your config.

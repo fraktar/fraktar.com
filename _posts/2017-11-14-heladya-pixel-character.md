@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meet 'Heladya' - Pixel Art Character
-label: pixels
+tags: pixels adobe-illustrator
 ---
 
 <img src="/public/images/heladya-drawing.jpg" alt="Mortality Bubble Chart" width="300" height="auto">

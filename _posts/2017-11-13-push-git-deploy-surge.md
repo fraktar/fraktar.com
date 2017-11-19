@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automatically deploy to Surge when pushing to Git
-label: deployment
+tags: deployment git
 ---
 
 **After each git push to your repository, automatically publish the project to Surge.**

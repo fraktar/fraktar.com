@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enable Strikethrough for Redcarpet Markdown
-label: markdown
+tags: markdown redcarpet
 ---
 
 Add this to your `config.yml` file:

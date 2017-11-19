@@ -19,7 +19,11 @@ url:              http://fraktar.com
  # name:           'Fraktar'
 # url:            https://twitter.com/fraktar
 
-gems: [jekyll-paginate]
+#gems: [jekyll-paginate, jekyll/tagging]
+gems:
+  #- jekyll/tagging 
+  - jekyll-paginate
+  
 paginate:         5
 paginate_path: "/:num/"
 # Custom vars
@@ -29,3 +33,9 @@ paginate_path: "/:num/"
 # Excludes
 exclude: ['LICENSE.md', 'README.md', 'CNAME', "package.json", "node_modules"]
 
+#tag_page_layout: tag_page
+#tag_page_dir: tag
+#tag_permalink_style: pretty
+#ignored_tags: [tags,to,ignore]
+#tag_page_data:
+#  sitemap: false

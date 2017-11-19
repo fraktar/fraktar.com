@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Jekyll Run Configurations on Cloud9
-label: build
+tags: jekyll cloud9 config
 ---
 
 **Here are 3 ways to set up the Cloud9 IDE with a Jekyll run configuration. That way you can save time serving/building your project by clicking `Run`

@@ -2,7 +2,7 @@
 layout: post
 title: Surge your site
 slug: surge
-label: "deployment"
+tags: deployment
 ---
 
 **Why Surge?**

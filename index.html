@@ -19,7 +19,12 @@ layout: default
 
         {{ post.title }} 
          
-      <span class="post-label hidden-xs">{{ post.label }}</span>
+    
+    {% for tag in post.tags limit:1 %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <span class="index-tag"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</span>
+    {% endfor %}
+    
       
     </h1>
 
@@ -40,6 +45,8 @@ layout: default
     <span class="next ">Next</span>
   {% endif %}
 </div>
+<br>
+<a href="/tag">Archive</a>
 </div>
 <hr>
 

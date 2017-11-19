@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Embed responsive YouTube videos 
-label: "code"
+tags: code
 ---
 
 You can use CSS to make an embedded YouTube video responsive.

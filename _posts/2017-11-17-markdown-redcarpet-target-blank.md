@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Redcarpet & Jekyll - Open external links in new tab by default
-label: redcarpet
+tags: markdown redcarpet jekyll
 ---
 
 **Expected behaviour:**

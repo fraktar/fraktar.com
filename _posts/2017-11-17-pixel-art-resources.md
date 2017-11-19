@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pixel Art & Game Dev - Resource Mega Post
-label: pixels, gamedev
+tags: pixels gamedev resource gamemaker-2
 last_modified_at: 2017-11-18T04:37:00+03:00
 ---
 

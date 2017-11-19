@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Uncss error - ignoring C.UTF-8
-label: "error"
+tags: error gulp grunt
 ---
 
 You might get this error when using <a href="https://github.com/giakki/uncss" target="_blank">Uncss</a> (plain or with Gulp/Grunt):

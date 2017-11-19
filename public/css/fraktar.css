@@ -414,3 +414,19 @@ a.pagination-item:hover {
     padding: 25px;
 }
 }
+.tags {
+    background: #121226;
+    padding: 5px 10px;
+    text-transform: lowercase;
+    font-family: monospace;
+    font-size: 18px;
+}
+.post-meta {
+    margin: 0 0 2rem 0;
+}
+.index-tag {
+    float: right;
+}
+.highligher-rouge {
+    font-family: monospace;
+}

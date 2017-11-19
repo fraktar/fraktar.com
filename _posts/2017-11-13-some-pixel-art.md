@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some Pixel Art
-label: pixels
+tags: pixels adobe-illustrator adobe-photoshop
 ---
 Hello! Nice to meet you! I'm Elf.
 

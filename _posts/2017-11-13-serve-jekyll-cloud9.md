@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Serve Jekyll On Cloud9 Command
-label: command
+tags: jekyll cloud9
 ---
 
 
